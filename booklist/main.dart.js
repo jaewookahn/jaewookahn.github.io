@@ -34137,7 +34137,7 @@ g=A.b([p,o,n,m,l,k,s,g,A.iG(B.CP,h,j.length===0?new A.u_(h):A.cP(j,h,h,h,h,h,h,h
 return A.anL(q,new A.Di(g,44,h),h)}}
 A.aaL.prototype={
 $0(){var s=A.c8(this.b.a.i(0,"server_address"))
-if(s==null)s="No IP saved"
+if(s==null)s="http://10.8.0.1"
 this.a.e=s},
 $S:0}
 A.aaJ.prototype={
